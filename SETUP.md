@@ -17,7 +17,7 @@ Follow these steps to get the project up and running on your local machine.
 1.  **Clone the Repository**
     Open your terminal and clone the forked repository to your local machine:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/mini-blog-app.git](https://github.com/YOUR_USERNAME/mini-blog-app.git)
+    git clone https://github.com/ritesh556/react-task
     ```
 
 2.  **Navigate to the Project Directory**
