@@ -42,7 +42,7 @@ Follow these steps to get the project up and running on your local machine.
 
     
     ```
-    The application will automatically open in your default web browser at `http://localhost:3000`.
+    The application will automatically open in your default web browser at `http://localhost:5173`.
 
 ---
 
